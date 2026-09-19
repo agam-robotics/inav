@@ -97,7 +97,7 @@
 
 // *************** IMU *****************************
 #define USE_IMU_ICM45686
-#define IMU_ICM45686_ALIGN      CW90_DEG_FLIP
+#define IMU_ICM45686_ALIGN      CW90_DEG
 #define ICM45686_SPI_BUS        BUS_SPI2
 #define ICM45686_CS_PIN         PD11
 
